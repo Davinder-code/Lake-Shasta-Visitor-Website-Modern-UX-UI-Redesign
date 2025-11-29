@@ -25,13 +25,6 @@ Confusing navigation menus
 
 These findings are fully described in our project documents and presentation.
 
-
-CS Presentation Slides.
-
- 
-
-Project Final Report
-
 ## Human-Centered Design Process We Followed
 1. Problem Identification
 
@@ -49,9 +42,6 @@ lack of proper categories
 
 inconsistent navigation
 
-
-Project Final Report
-
 2. User Personas
 
 We created three personas to understand different user needs:
@@ -62,18 +52,12 @@ Mike (Adventurer/Photographer) – wants fast access to trails & scenic spots
 
 Kim (Retiree) – prefers simple navigation with larger fonts
 
-
-CS Presentation Slides.
-
 These personas helped us design for real people, not assumptions.
 
 3. Comparative & Non-Comparative Research
 
 Our team compared the old site to the National Park Service website because it is well organized and user-friendly for tourists.
 We also reviewed a non-comparative site (Bicycle Warehouse) to understand clean layout and menu structure.
-
-
-CS Presentation Slides.
 
 4. Design Solutions
 
@@ -91,9 +75,6 @@ Mobile-responsive design
 
 Cleaner interface and modern layout
 
-
-CS Presentation Slides.
-
 5. Prototype Creation
 
 We built the prototype using Wix Studio, designing a clean homepage with categories such as:
@@ -109,9 +90,6 @@ Fishing
 Contact Us
 
 We also added improved visuals, icons, and better structure.
-
-
-Project Final Report
 
 6. User Testing
 
@@ -134,10 +112,7 @@ Efficiency of navigation
 
 Participants on desktop rated the site highest, while mobile testers noted minor scaling issues — giving us feedback for future iterations.
 
-
-## Project Final Report
-
-My Contributions
+## My Contributions
 
 As part of the team, I worked on:
 
@@ -150,8 +125,6 @@ Contributing to layout ideas for the redesigned pages
 Assisting with writing the report and slide content
 
 Participating in testing and feedback review
-
-
 
 This project reflects both teamwork and my personal experience as a Computer Science / Data Science student working on real user-centered design problems.
 
