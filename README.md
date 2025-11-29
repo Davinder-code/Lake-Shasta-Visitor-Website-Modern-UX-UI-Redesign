@@ -116,7 +116,7 @@ Participants on desktop rated the site highest, while mobile testers noted minor
 
 As part of the team, I worked on:
 
-Writing the introduction, project intention, and persona section
+Writing the introduction, project intention, user testing and persona section
 
 Helping identify key problems in the original site
 
