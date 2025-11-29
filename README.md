@@ -1,5 +1,5 @@
 ## Shasta Lake Tourism Website Redesign
-Human-Centered Design Project — Team Collaboration
+Human-Centered Design Class Project — Team Collaboration (Fall 2024)
 
 This project was created for my Human-Centered Design course, where our goal was to redesign an outdated website using real HCD principles such as user research, personas, problem identification, prototyping, and user testing. My team and I selected the Shasta Lake tourism website because the original page was extremely cluttered, visually outdated, and hard for visitors to use.
 
