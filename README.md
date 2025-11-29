@@ -52,7 +52,7 @@ inconsistent navigation
 
 Project Final Report
 
-2. User Personas (Created by Me)
+2. User Personas
 
 We created three personas to understand different user needs:
 
@@ -135,9 +135,9 @@ Efficiency of navigation
 Participants on desktop rated the site highest, while mobile testers noted minor scaling issues — giving us feedback for future iterations.
 
 
-Project Final Report
+## Project Final Report
 
-My Contributions (Davinder Singh)
+My Contributions
 
 As part of the team, I worked on:
 
@@ -152,11 +152,10 @@ Assisting with writing the report and slide content
 Participating in testing and feedback review
 
 
-Project Final Report
 
 This project reflects both teamwork and my personal experience as a Computer Science / Data Science student working on real user-centered design problems.
 
-What I Learned
+## What I Learned
 
 This project helped me practice:
 
